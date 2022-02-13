@@ -2,6 +2,8 @@
 ### npm install 
 ### npx react-native run-android
 
+# Download APK from apk folder
+
 ### API Used => https://saurav.tech/NewsAPI/
 
 # News Page
